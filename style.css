@@ -1,0 +1,30 @@
+ <style>
+     *   {
+    box-sizing: border-box;
+}
+.decoration-one {
+    background-color:rgb(249, 154, 154);
+    margin: 0;
+    border:0;
+    border-radius: 12px;
+    padding: 9px;
+    font-weight: bold;
+}
+.decoration-one:hover {
+    background-color:yellow;
+
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+</style>  
+.card{
+  background: rgba(0, 0, 0, 0.884);
+  color:white;
+  padding: 1.5rem;
+  border-radius:30px;
+  width:100%;
+  max-width: 420px;
+  margin: 1rem;
+}
